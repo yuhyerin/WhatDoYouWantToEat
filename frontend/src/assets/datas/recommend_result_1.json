@@ -1,0 +1,74 @@
+{
+  "schema": {
+    "fields": [
+      { "name": "index", "type": "integer" },
+      { "name": "store_id", "type": "string" },
+      { "name": "category", "type": "string" },
+      { "name": "score", "type": "number" }
+    ],
+    "primaryKey": ["index"],
+    "pandas_version": "0.20.0"
+  },
+  "data": [
+    {
+      "index": 0,
+      "store_id": 2278,
+      "category": "삼겹살",
+      "score": 0.9999997616
+    },
+    {
+      "index": 1,
+      "store_id": 217726,
+      "category": "족발",
+      "score": 0.9990233779
+    },
+    {
+      "index": 2,
+      "store_id": 331585,
+      "category": "한우",
+      "score": 0.9988960028
+    },
+    {
+      "index": 3,
+      "store_id": 300410,
+      "category": "삼겹살",
+      "score": 0.9988549948
+    },
+    {
+      "index": 4,
+      "store_id": 224857,
+      "category": "한우",
+      "score": 0.9987931252
+    },
+    {
+      "index": 5,
+      "store_id": 25489,
+      "category": "생삼겹살",
+      "score": 0.9987620115
+    },
+    {
+      "index": 6,
+      "store_id": 305186,
+      "category": "한우",
+      "score": 0.9986715317
+    },
+    {
+      "index": 7,
+      "store_id": 334282,
+      "category": "갈비",
+      "score": 0.9986702204
+    },
+    {
+      "index": 8,
+      "store_id": 270094,
+      "category": "족발",
+      "score": 0.998618722
+    },
+    {
+      "index": 9,
+      "store_id": 64824,
+      "category": "해물칼국수",
+      "score": 0.9985915422
+    }
+  ]
+}

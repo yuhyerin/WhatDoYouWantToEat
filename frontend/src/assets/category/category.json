@@ -1,0 +1,92 @@
+[
+  {
+    "cat_id": 100,
+    "cat_title": "all",
+    "cat_img_url": "category/bono.jpg"
+  },
+  {
+    "cat_id": 1,
+    "cat_title": "분식",
+    "cat_img_url": "category/분식.jpg"
+  },
+  {
+    "cat_id": 2,
+    "cat_title": "볶음밥",
+    "cat_img_url": "category/볶음밥.jpg"
+  },
+  {
+    "cat_id": 3,
+    "cat_title": "만두",
+    "cat_img_url": "category/만두.jpg"
+  },
+  {
+    "cat_id": 4,
+    "cat_title": "한식",
+    "cat_img_url": "category/한식.jpg"
+  },
+  {
+    "cat_id": 5,
+    "cat_title": "고기",
+    "cat_img_url": "category/고기.png"
+  },
+  {
+    "cat_id": 6,
+    "cat_title": "족발보쌈",
+    "cat_img_url": "category/족발보쌈.jpg"
+  },
+  {
+    "cat_id": 7,
+    "cat_title": "중국요리",
+    "cat_img_url": "category/중국요리.jpg"
+  },
+  {
+    "cat_id": 8,
+    "cat_title": "해산물",
+    "cat_img_url": "category/해산물.jpg"
+  },
+  {
+    "cat_id": 9,
+    "cat_title": "면류",
+    "cat_img_url": "category/면류.jpg"
+  },
+  {
+    "cat_id": 10,
+    "cat_title": "야식류",
+    "cat_img_url": "category/야식류.jpg"
+  },
+  {
+    "cat_id": 11,
+    "cat_title": "일식돈까스",
+    "cat_img_url": "category/일식돈까스.jpg"
+  },
+  {
+    "cat_id": 12,
+    "cat_title": "치킨",
+    "cat_img_url": "category/치킨.jpg"
+  },
+  {
+    "cat_id": 13,
+    "cat_title": "피자",
+    "cat_img_url": "category/피자.jpg"
+  },
+  {
+    "cat_id": 14,
+    "cat_title": "버거",
+    "cat_img_url": "category/버거.jpg"
+  },
+  {
+    "cat_id": 15,
+    "cat_title": "파스타",
+    "cat_img_url": "category/파스타.jpg"
+  },
+  {
+    "cat_id": 16,
+    "cat_title": "도시락",
+    "cat_img_url": "category/도시락.jpg"
+  },
+  {
+    "cat_id": 17,
+    "cat_title": "기타음식",
+    "cat_img_url": "category/기타음식.jpg"
+  }
+]

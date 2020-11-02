@@ -1,0 +1,26 @@
+[
+  {
+    "storeId": 0,
+    "category": "치킨",
+    "name": "치킨",
+    "image": "../assets/image/1.jpg"
+  },
+  {
+    "storeId": 1,
+    "category": "피자",
+    "name": "피자",
+    "image": "../assets/image/2.png"
+  },
+  {
+    "storeId": 2,
+    "category": "족발",
+    "name": "족발",
+    "image": "../assets/image/3.jpg"
+  },
+  {
+    "storeId": 3,
+    "category": "보쌈",
+    "name": "보쌈",
+    "image": "../assets/image/2.png"
+  }
+]

@@ -1,0 +1,12 @@
+[Unit]
+Description=myproject Daphne Service
+After=network.target
+
+[Service]
+Type=simple 
+User=ubuntu
+WorkingDirectory=/srv/backend
+ExecStart=/home/ubuntu/miniconda3/envs/test/bin/daphne -p 9001 signup.asgi:application 
+
+[Install]
+WantedBy=multi-user.target

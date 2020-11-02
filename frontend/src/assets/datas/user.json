@@ -1,0 +1,16 @@
+[
+  {
+    "nm_email": "pks313527@naver.com",
+    "nm_name": "박경수",
+    "nm_nickname": "구상벽",
+    "nm_password": "1234",
+    "nm_password_confirm": "1234",
+    "nm_address": [
+      "대전광역시 유성구 봉명동 447-6",
+      "서울특별시 강남구 역삼동 820",
+      "대전광역시 유성구 구암동 666-1",
+      "서울특별시 강서구 등촌동 663-16"
+    ],
+    "nm_gender": "남"
+  }
+]
